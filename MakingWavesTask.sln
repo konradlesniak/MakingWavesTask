@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakingWavesTask", "MakingWavesTask\MakingWavesTask.csproj", "{03526DFC-0AE0-4CDA-BC2C-C2E750D1E331}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakingWavesTask_Test", "MakingWavesTask_Test\MakingWavesTask_Test.csproj", "{71EE5F6E-B0DB-4A9A-BFEE-01F04E462D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03526DFC-0AE0-4CDA-BC2C-C2E750D1E331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03526DFC-0AE0-4CDA-BC2C-C2E750D1E331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03526DFC-0AE0-4CDA-BC2C-C2E750D1E331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03526DFC-0AE0-4CDA-BC2C-C2E750D1E331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EE5F6E-B0DB-4A9A-BFEE-01F04E462D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EE5F6E-B0DB-4A9A-BFEE-01F04E462D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EE5F6E-B0DB-4A9A-BFEE-01F04E462D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EE5F6E-B0DB-4A9A-BFEE-01F04E462D60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {939FBE2F-910F-40F9-8008-ECBEA0EA2136}
+	EndGlobalSection
+EndGlobal
