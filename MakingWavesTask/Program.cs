@@ -9,6 +9,7 @@ namespace MakingWavesTask
 
             try
             {
+                //test git
                 var inputProcessor = new InputProcessor();
                 var periodObject = inputProcessor.ProcessInput(args);
 
